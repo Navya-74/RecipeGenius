@@ -19,15 +19,6 @@ RecipeGenius is a web-based application designed to help users find and share re
 - **styles.css**: Main stylesheet for the application’s design.
 - **styles1.css**: Additional stylesheet for alternative styling options.
 
-## Installation and Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/SameerPatwari/RecipeGenius.git
-2. Navigate to the project directory:
-   ```bash
-   cd RecipeGenius
-3. Open `index.html` in a web browser to view the application.
 
 ## Usage
 
